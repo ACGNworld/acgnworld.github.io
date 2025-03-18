@@ -429,7 +429,7 @@ nav {
 
 .wrapper-content {
   float: right;
-  width: 70%;
+  width: 80%;
 
   @include mobile {
     float: none;
@@ -517,9 +517,9 @@ nav {
 // TOC
 
 .toc {
-  width: 240px;
+  width: 220px;
   height: 100%;
-  left: 30%;
+  left: 25%;
   position: fixed;
   z-index: 4;
   padding: 60px 20px 0 20px;
