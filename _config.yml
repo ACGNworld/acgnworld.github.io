@@ -12,9 +12,9 @@ description: "learning"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cdn.jsdelivr.net/gh/goldstine/goldstine.github.io/images/0.png
+avatar: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/0.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://cdn.jsdelivr.net/gh/goldstine/goldstine.github.io/images/favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -63,7 +63,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2023 goldstine
+footer-text: Copyright (c) 2025 staroul
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -77,7 +77,7 @@ gitalk:
   owner: ACGNworld
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-SFTMRKV4P4
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
