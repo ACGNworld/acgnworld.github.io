@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "goldstine's blog"
+name: "嘉余的博客"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：Goldstine  分享编程资源 | 学习路线"
+description: "learning"
 
 #
 # Flags below are optional
@@ -28,12 +28,12 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: Img
-    url: /photos
-  - name: Music
-    url: /music
-  - name: Video
-    url: /video
+  # - name: Img
+  #   url: /photos
+  # - name: Music
+  #   url: /music
+  # - name: Video
+  #   url: /video
   - name: 导航
     url: /navigation
 
@@ -47,11 +47,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: goldstine
-  email: 15797899690@163.com
+  zhihu: 
+  email: uiuw64@gmail.com
   facebook:
   flickr:
-  github: goldstine 
+  github: ACGNworld 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -71,17 +71,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 062eeb9a0adf39976274
-  clientSecret: 3c319e4cf4a90b70809d7fd1b25e4c6c10376a10
-  repo: goldstine.github.io
-  owner: goldstine
+  clientID: Ov23licO2lhKxrk4KFbF
+  clientSecret: aabd1600d406c18674d8d8ea052b334aa3512bab
+  repo: ACGNworld.github.io
+  owner: ACGNworld
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://goldstine.github.io
+url: https://acgnworld.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
