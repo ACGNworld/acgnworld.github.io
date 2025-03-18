@@ -3,81 +3,6 @@ layout: default
 ---
 
 <!-- 菜单页 -->
-<div>
-  菜单页布局
-</div>
-<style>
-  * {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      text-decoration: none;
-      font-weight: 520;
-      font-family: 微软雅黑;
-  }
-
-  #nav {
-      width: 300px;
-      height: 72px;
-      background-color: rgb(247, 249, 250);
-      border-radius: 20px;
-      margin: 20px auto;
-  }
-  #nav>ul{list-style:none;}
-
-  li {
-            /* 去掉li前面的小圆点 */
-            list-style: none;
-        }
-
-  #nav>ul>li {
-      float: left;
-      width: 40px;
-      height: 72px;
-      text-align: center;
-  }
-
-  #nav>ul>li>a {
-      text-align: center;
-      line-height: 72px;
-      font-size: 20px;
-      color: black;
-  }
-
-  #nav>ul>li>a:hover {
-      color: orange;
-  }
-
-  ul>span {
-      float: left;
-      line-height: 72px;
-      color: rgb(225, 224, 224);
-      font-weight: 800;
-      font-size: 24px;
-  }
-
-  #nav>ul>li>.a1 {
-      color: #FF0036;
-  }
-
-  #nav>ul>li>.a2 {
-      color: rgb(101, 198, 58);
-  }
-</style>
-
-
-<div id="nav">
-  <ul>
-      <li><a href="#" class="a1">春</a></li><span>|</span>
-      <li><a href="#" class="a1">夏</a></li><span>|</span>
-      <li><a href="#" class="a2">秋</a></li><span>|</span>
-      <li><a href="#">冬</a></li><span>|</span>
-      <!-- <li><a href="#">DeepLearning</a></li><span>|</span>
-      <li><a href="#">MachineLearning</a></li><span>|</span>
-      <li><a href="#">ReinforcementLearning</a></li><span>|</span>
-      <li><a href="#">WirelessNetwork</a></li> -->
-  </ul>
-</div>
 
 <div class="search-container">
   <input type="text" id="search-input" placeholder="search blog posts..." style="width: 90%;
@@ -112,10 +37,6 @@ layout: default
   })
 </script>
 
-<!-- 修改 by goldstine 2023-05-13 -->
-<div>
-  <p>2023-05-13</p>
-</div>
 
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
@@ -129,7 +50,7 @@ layout: default
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
 
-      <div clsss="meta">
+      <div class="meta">
         <span class="date">
           {{ post.date | date: "%Y-%m-%d" }}
         </span>

@@ -12,7 +12,7 @@ description: "learning"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/0.png
+avatar: ./images/paimon.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/favicon.ico
 
