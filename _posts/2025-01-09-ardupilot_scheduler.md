@@ -2,8 +2,9 @@
 layout: post
 title: "ardupilot scheduler调度器"
 date:   2025-01-09
-tags: [geek]
+tags: [ardupilot]
 comments: true
+toc: true
 author: 嘉余
 ---
 
