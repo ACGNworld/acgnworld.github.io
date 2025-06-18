@@ -3,18 +3,19 @@
 #
 
 # Name of your site (displayed in the header)
-name: "嘉余的博客"
+name: "\"智启星\"智能挖掘机教育实验系统"
 # Short bio or description (displayed in the header)
-description: "learning"
+description: "专注职业教育，激活创新潜能"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/paimon.jpg
+avatar: /images/智启星logo.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/favicon.ico
+# favicon: https://cdn.jsdelivr.net/gh/acgnworld/acgnworld.github.io/images/favicon.ico
+favicon: /images/智启星logo.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
